@@ -1,1 +1,4 @@
-# ignore all the folders that start with .
+# Binaries for programs and plugins
+*.exe
+*.exe~
+.*

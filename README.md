@@ -14,7 +14,7 @@ tasks for club
 | [task-6](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-6)   |           not assigned           | not assigned |
 | [task-7](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-7)   |           not assigned           | not assigned |
 | [task-8](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-8)   |              pokedex              | yet to start |
-| [task-9](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-9)   |            login form            |  COMPLETED 👍 |
+| [task-9](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-9)   |            login form            | COMPLETED 👍 |
 | [TASK-10](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/TASK-10) |      send tweet using python      | yet to start |
 | [TASK-11](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/TASK-11) | Stone Paper Scissors Telegram Bot | yet to start |
 
@@ -32,7 +32,6 @@ I started playing Bandit, a series of Linux-based challenges on the OverTheWire 
 
 In level 0, I logged in using the username "bandit0" and the password "bandit0".
 
-
 In level 1, I logged in using the username "bandit1" and the password "bandit0", and then using the command cat readme I found the password for the next level in the file "readme" in the home directory.
 
 In level 2, I logged in using the username "bandit2" and the password from the previous level, then using the command cat ./-, I found the password for the next level in the file "-" in the home directory.
@@ -43,37 +42,39 @@ In level 4 , the password is in a hidden file in the inhere directory, hence I u
 
 In level 5, the password is in a file in the inhere directory, but it needs to be human readable, hence I used file ./* to  the type of data in the file and opened that one with ASCII in it.
 
-In level 6, the password is in a file in the inhere directory, with many sub directories hence I searched the file with the given parameters by 
+In level 6, the password is in a file in the inhere directory, with many sub directories hence I searched the file with the given parameters by
 
-```find . -type f -readable -size 1033c ! -executable```
+``find . -type f -readable -size 1033c ! -executable``
 and found the file and opened it with cat.
 
 In level 7, the password is in a file somewhere on the server and just like the previous level  it too had pareamters to search with.
 
-```find / -user bandit7 -group bandit6 -size 33c | grep -w password```
+``find / -user bandit7 -group bandit6 -size 33c | grep -w password``
 
 the I cat the destiantion file and copied the password.
 
 In level 8, the password is in a large file and agnist the words "millionth" hence I used grep to search for the word and copied the password.
-```cat data.txt | grep millionth```
+``cat data.txt | grep millionth``
 
-In level 9  , the password is in data.txt but it's an unique value , hence I used 
+In level 9  , the password is in data.txt but it's an unique value , hence I used
 
-```cat data.txt | sort | uniq -c -u```
+``cat data.txt | sort | uniq -c -u``
 
 In level 10 , the password is in a file with a lot of text and the word "===" is repeated only once hence I used grep to search for the word and copied the password.
-```strings data.txt | grep ===```
+``strings data.txt | grep ===``
 
-In level 11, the password is in a file which as data encoded in base 64 , hence i used ```cat data.txt | base64 --decode``` to decode the data and copied the password.
-
-
-
+In level 11, the password is in a file which as data encoded in base 64 , hence i used ``cat data.txt | base64 --decode`` to decode the data and copied the password.
 
 ## task 4
+
 ## task 5
+
 ## task 6
+
 ## task 7
+
 ## task 8
 
 ## task 9
-As a beginner in web development, this was my first experience working with HTML, CSS, and JavaScript. Although the task did not specifically require the use of JavaScript, I chose to incorporate it in order to gain a better understanding of the basics. Overall, the experience was highly informative and beneficial to my learning progress.
+
+As a beginner in web development, this was my first experience working with HTML, CSS, and JavaScript. Although the task did not specifically require the use of JavaScript, I chose to incorporate it in order to gain a better understanding of the basics. Overall, the experience was highly informative and beneficial to my learning progress. Just did it in LocalHost. didn't host it.
