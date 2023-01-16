@@ -1,0 +1,9 @@
+const element = document.getElementById("#message-input-text"); element.innerHTML = "New Heading";
+
+document.getElementById("editable-message-text").innerHTML = "New text!"; document.getElementById("myCheck").click();
+
+document.getElementById("editable-message-text.form-control.touched").innerHTML = "New text";
+
+document.getElementById("message-input-text").innerHTML = "New text";
+
+
