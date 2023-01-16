@@ -15,8 +15,8 @@ tasks for club
 | [task-7](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-7)   | not assigned                      | not assigned |
 | [task-8](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-8)   | pokedex                           | yet to start |
 | [task-9](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-9)   | login form                        | COMPLETED 👍 |
-| [TASK-10](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/TASK-10) | send tweet using python           |   started   |
-| [TASK-11](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/TASK-11) | Stone Paper Scissors Telegram Bot | COMPLETED 👍 |
+| [TASK-10](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-10) | send tweet using python           |   started   |
+| [TASK-11](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-11) | Stone Paper Scissors Telegram Bot | COMPLETED 👍 |
 
 ## task 1
 
