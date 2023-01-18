@@ -4,19 +4,19 @@ tasks for club
 
 ## OVERVIEW OF TASKS DONE
 
-| TASK NUMBER                                                                  | DESCRIPTION                       |    STATUS    |
-| :--------------------------------------------------------------------------- | :-------------------------------- | :----------: |
-| [task-1](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-1)   | webscraper                        | COMPLETED 👍 |
-| [task-2](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-2)   | captcha automator                 | COMPLETED 👍 |
-| [task-3](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-3)   | bandit  OTW                       | COMPLETED 👍 |
-| [task-4](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-4)   | Programming                       |   going on   |
-| [task-5](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-5)   | Spammer_Spaghetti                 | yet to start |
-| [task-6](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-6)   | not assigned                      | not assigned |
-| [task-7](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-7)   | not assigned                      | not assigned |
-| [task-8](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-8)   | pokedex                           | yet to start |
-| [task-9](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-9)   | login form                        | COMPLETED 👍 |
-| [TASK-10](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-10) | send tweet using python           |   started   |
-| [TASK-11](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-11) | Stone Paper Scissors Telegram Bot | COMPLETED 👍 |
+| TASK NUMBER                                                                  | DESCRIPTION                       |      STATUS      |
+| :--------------------------------------------------------------------------- | :-------------------------------- | :--------------: |
+| [task-1](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-1)   | webscraper                        |   COMPLETED 👍   |
+| [task-2](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-2)   | captcha automator                 |   COMPLETED 👍   |
+| [task-3](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-3)   | bandit  OTW                       |   COMPLETED 👍   |
+| [task-4](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-4)   | Programming                       |   COMPLETED 👍   |
+| [task-5](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-5)   | Spammer_Spaghetti                 |      trying      |
+| [task-6](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-6)   | not assigned                      |   not assigned   |
+| [task-7](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-7)   | not assigned                      |   not assigned   |
+| [task-8](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-8)   | pokedex                           |   COMPLETED 👍   |
+| [task-9](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-9)   | login form                        |   COMPLETED 👍   |
+| [TASK-10](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-10) | send tweet using python           | Techinical issue |
+| [TASK-11](https://github.com/SANTHOSH-MAMIDISETTI/club-tasks/tree/main/task-11) | Stone Paper Scissors Telegram Bot |   COMPLETED 👍   |
 
 ## task 1
 
@@ -49,15 +49,23 @@ tasks for club
 
 ## task 6
 
+not assigned
+
 ## task 7
 
+not assigned
+
 ## task 8
+
+To create a Pokedex website using only HTML, CSS, and JavaScript, deployed on localhost, I  obtained  API key for a Pokedex API, such as the PokeAPI ([https://pokeapi.co/](https://pokeapi.co/)). Next, I would used JavaScript to make API calls to the Pokedex API and retrieve data about Pokemon. I would then used the data from the API to dynamically create HTML elements on my website, such as divs and images, to display information about Pokemon, such as their names, images. I would use CSS to style the website and make it visually appealing. I learnt a lot about Js by doing this task . Just did it in LocalHost. didn't host it.
 
 ## task 9
 
 * [ ] As a beginner in web development, this was my first experience working with HTML, CSS, and JavaScript. Although the task did not specifically require the use of JavaScript, I chose to incorporate it in order to gain a better understanding of the basics. Overall, the experience was highly informative and beneficial to my learning progress. Just did it in LocalHost. didn't host it.
 
 # task 10
+
+* [ ] There is an issue with the twitter developer account ; which prevented me from genrating the API token , hence unable to do the task (for now).
 
 # task 11
 
